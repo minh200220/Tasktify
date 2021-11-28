@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "http://localhost:5000" });
+const API = axios.create({ baseURL: "https://tasktify-pj.herokuapp.com" });
 // https://tasktify-pj.herokuapp.com
 // http://localhost:5000
 
